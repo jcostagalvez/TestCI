@@ -4,7 +4,7 @@ public with sharing class Test_Hello_CI {
     public Test_Hello_CI() {
 
         Test.startTest();
-            Hello_CI testCI = new Hello_CI();
+            Hello_CI testCi = new Hello_CI();
         Test.stopTest();
     }
 }
